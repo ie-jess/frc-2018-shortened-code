@@ -10,7 +10,7 @@ public class Robot extends TimedRobot {
     //robot code starts!! (like public void string args in coding)
     private Drivetrain drivetrain;
 
-    private OI oi;
+    public static OI oi;
 
     private static Command auto;
 

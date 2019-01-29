@@ -16,7 +16,7 @@ public class Drive extends Command {
     }
 
     public void execute(){
-        drivetrain.setSpeed(oi.getLeftJoy(), oi.getRightJoy());
+        drivetrain.setSpeed(oi.getLeftY(), oi.getRightY());
     }
 
     @Override
