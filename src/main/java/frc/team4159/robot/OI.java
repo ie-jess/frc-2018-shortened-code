@@ -32,16 +32,6 @@ public class OI {
         leftJoy = new Joystick(LEFT_STICK);
         rightJoy = new Joystick(RIGHT_STICK);
         secondaryJoy = new Joystick(SECONDARY_STICK);
-        testJoy = new Joystick(TEST_STICK);
-
-        base = new JoystickButton(testJoy, 3);
-        midToLeft = new JoystickButton(testJoy, 4);
-        midToRight = new JoystickButton(testJoy, 5);
-
-//        base.whenReleased(new RunCSVProfile(BASELINE_L, BASELINE_R));
-//        midToLeft.whenReleased(new RunCSVProfile(MID_TO_LEFT_L, MID_TO_LEFT_R));
-//        midToRight.whenReleased(new RunCSVProfile(MID_TO_RIGHT_L, MID_TO_RIGHT_R));
-
     }
 
     /*

@@ -12,9 +12,12 @@ public class LiftCube extends Command {
     private OI oi;
 
     public LiftCube() {
-        requires(Superstructure.cubeHolder);
-        cubeHolder = Superstructure.getInstance().getCubeHolder();
+
+        cubeHolder = CubeHolder.getInstance();
         oi = OI.getInstance();
+
+        requires(cubeHolder);
+
     }
 
     @Override
@@ -46,38 +49,8 @@ public class LiftCube extends Command {
             cubeHolder.close();
         }
 
-        /*
-         * Use secondary y-axis to control lifter if not used to control climbing
-         */
-        if(!oi.climbEnable()) {
+        cubeHolder.moveArm(-oi.getSecondaryY());
 
-            if (!cubeHolder.getRawMode()) {
-                if (oi.setSwitchHeight())
-                    cubeHolder.setToSwitch();
-
-                else if(oi.setLiftTargetZero())
-                    cubeHolder.setToBottom();
-
-                else if (Math.abs(oi.getSecondaryY()) > 0.1)
-                    cubeHolder.updatePosition(oi.getSecondaryY());
-
-                cubeHolder.move();
-
-            } else {
-                cubeHolder.setRawLift(oi.getSecondaryY());
-
-            }
-        }
-
-        if(Robot.oi.toggleLifterRawMode()){
-            cubeHolder.toggleLifterRawMode();
-        }
-
-//        if(Robot.oi.resetLiftEncoder()){
-//            cubeHolder.resetLiftEncoder();
-//        }
-
-        cubeHolder.logDashboard();
     }
 
     @Override
