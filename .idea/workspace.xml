@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="690437a0-cb76-45c6-ba74-2710571e39f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/OI.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/OI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/Robot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/CloseClaw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/IntakeWheels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/LiftCube.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/LiftCube.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/LiftDown.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/LiftUp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/OpenClaw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/OuttakeWheels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/ResetLiftTopPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/commands/cube/RunLift.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/subsystems/CubeHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/frc/team4159/robot/subsystems/CubeHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/frc-2018-shortened-code.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/frc-2018-shortened-code.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/OI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/OI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/CloseClaw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/IntakeWheels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/LiftCube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/LiftCube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/LiftDown.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/LiftUp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/OpenClaw.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/OuttakeWheels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/ResetLiftTopPosition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/RunLift.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/subsystems/CubeHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frc/team4159/robot/subsystems/CubeHolder.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/subsystems/CubeHolder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="1122">
               <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -117,7 +84,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/OI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1173">
@@ -139,19 +106,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew.bat">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/LiftCube.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="-2">
               <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -424,7 +381,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548867656781" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548902809531" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -474,7 +431,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -492,7 +449,7 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32923076" />
       <window_info anchor="bottom" id="Build" order="8" weight="0.33384615" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3276923" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3276923" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3295129" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -611,22 +568,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/RobotMap.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/OI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/LiftCube.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="127" column="19" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
+        <state relative-caret-position="-2">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2085#2086#0" expanded="true" />
+            <element signature="e#2113#2114#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/subsystems/CubeHolder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="1122">
           <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -646,16 +604,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/command/cube/LiftCube.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/RobotMap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/frc/team4159/robot/OI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        <state relative-caret-position="1173">
+          <caret line="127" column="19" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2085#2086#0" expanded="true" />
-            <element signature="e#2113#2114#0" expanded="true" />
-            <element signature="e#2155#2156#0" expanded="true" />
-            <element signature="e#2197#2198#0" expanded="true" />
           </folding>
         </state>
       </provider>
